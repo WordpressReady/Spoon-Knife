@@ -1,0 +1,19 @@
+<!--explicit comment here by FZSM-->
+<tabdata>
+	<tab>
+		<image>http://smensajeria/TabURL/ute.jpg</image>
+		<name>UTE</name>
+		<tooltip>Mensajes Corporativos</tooltip>
+		<contenturl>http://wappcorp/Mensajes/Mensajes_2008.asp</contenturl>
+		<siteid>1</siteid>
+</tab>
+	<tab>
+		<image>http://smensajeria/TabURL/ute.jpg</image>
+		<name>Usuarios</name>
+		<tooltip>Imagen de Usuario en curso</tooltip>
+		<contenturl>file:///f:/work/tabs.htm</contenturl>
+		<siteid>1</siteid>
+		<userid>true</userid>
+		<contactid>true</contactid>
+	</tab>
+</tabdata>	
